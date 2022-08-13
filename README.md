@@ -16,7 +16,7 @@
     <img src="https://komarev.com/ghpvc/?username=ArmandJ77&style=for-the-badge"/>
 </div>
 
-## Hi, I'm Armand Jordaan
+## Hi, i'm Armand Jordaan
 
 *Thank you for taking the time to view my profile, your feedback is most welcome* :smile:
 
