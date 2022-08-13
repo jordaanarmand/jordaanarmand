@@ -25,4 +25,8 @@
 
 ## Technology Stack
 
-#### Foo bar
+<div align="left">
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  </a>
+</div>
