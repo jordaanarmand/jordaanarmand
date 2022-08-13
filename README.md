@@ -26,7 +26,5 @@
 ## Technology Stack
 
 <div align="left">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet-core" width="40" height="40"/>
 </div>
