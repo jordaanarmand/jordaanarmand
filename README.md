@@ -1,5 +1,7 @@
 ![Banner](https://github.com/ArmandJ77/ArmandJ77/blob/main/images/banner.jpg?raw=true)
 
+![](https://komarev.com/ghpvc/?username=ArmandJ77&color=green)
+
 ## Hi, I'm Armand Jordaan
 
 *Thank you for taking the time to view my github profile.*
