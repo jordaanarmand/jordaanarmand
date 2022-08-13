@@ -1,6 +1,6 @@
 ![Banner](https://github.com/ArmandJ77/ArmandJ77/blob/main/images/banner.jpg?raw=true)
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/armandjordaan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
