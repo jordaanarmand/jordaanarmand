@@ -46,3 +46,7 @@ I am a dynamic and creative full-stack software developer with over 9 years of e
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
 </div>
 
+## Currently working on
+
+## Stats
+![Armand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmandJ77&show_icons=true&theme=blue-green)
