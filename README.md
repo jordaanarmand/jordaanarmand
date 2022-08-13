@@ -25,7 +25,7 @@
 
 ## Technology Stack
 
-Front end:
+#### Front end:
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
@@ -37,7 +37,7 @@ Front end:
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
 </div>
 
-Backend:
+##### Backend:
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet-core" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="csharp" width="40" height="40"/>
@@ -46,7 +46,7 @@ Backend:
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/>
 </div>
 
-DevOps:
+#### DevOps:
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
