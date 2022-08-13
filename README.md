@@ -1,9 +1,7 @@
 ![Banner](https://github.com/ArmandJ77/ArmandJ77/blob/main/images/banner.jpg?raw=true)
 
 <div align="center">
-  <a href="https://komarev.com/ghpvc/?username=ArmandJ77&style=flat-square">![](https://komarev.com/ghpvc/?username=ArmandJ77&style=flat-square)
-    <img href="https://komarev.com/ghpvc/?username=ArmandJ77&style=flat-square"/>
-  </a>
+    <img src="https://komarev.com/ghpvc/?username=ArmandJ77&style=flat-square"/>
 </div>
 
 ![](https://komarev.com/ghpvc/?username=ArmandJ77&style=flat-square)
