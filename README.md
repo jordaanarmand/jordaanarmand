@@ -47,7 +47,7 @@ I am a dynamic and creative full-stack software developer with over 9 years of e
 </div>
 
 ## Currently working on
-- [Acceleon.com.au](https://www.acceleon.com.au): A cloud hosted fraud detection and prevention platform
+- [Acceleon.com.au](https://www.acceleon.com.au): A cloud hosted fraud detection and prevention platform for the Australian FinTech market
 - Rebuilding my Github profile with a focus on projects instead of single small repos
 - Improving my knowledge on Terraform, microservices and all things Azure.
 
