@@ -49,4 +49,5 @@ I am a dynamic and creative full-stack software developer with over 9 years of e
 ## Currently working on
 
 ## Stats
-![Armand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmandJ77&show_icons=true&theme=blue-green)
+![Armand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmandJ77&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandJ77&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=github_dark)
