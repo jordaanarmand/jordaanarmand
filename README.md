@@ -1,7 +1,8 @@
 ![Banner](https://github.com/ArmandJ77/ArmandJ77/blob/main/images/banner.jpg?raw=true)
 
 <p align="center">
-  <img src="[https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg](https://komarev.com/ghpvc/?username=ArmandJ77&color=green)" /></p>
+  ![](https://komarev.com/ghpvc/?username=ArmandJ77&color=green)
+</p>
 
 ## Hi, I'm Armand Jordaan
 
