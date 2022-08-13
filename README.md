@@ -3,7 +3,7 @@
 <div align="center">
   <a href="">![](https://komarev.com/ghpvc/?username=ArmandJ77&color=green)</a>
 </div>
-
+![](https://komarev.com/ghpvc/?username=ArmandJ77&color=green)
 ## Hi, I'm Armand Jordaan
 
 *Thank you for taking the time to view my github profile.*
