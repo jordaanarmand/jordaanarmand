@@ -1,7 +1,7 @@
 ![Banner](https://github.com/ArmandJ77/ArmandJ77/blob/main/images/banner.jpg?raw=true)
 
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=ArmandJ77&color=green)
+  <a href="[https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers](https://komarev.com/ghpvc/?username=ArmandJ77&color=green)" />
 </p>
 
 ## Hi, I'm Armand Jordaan
