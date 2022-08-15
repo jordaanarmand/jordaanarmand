@@ -58,4 +58,3 @@ I am a dynamic and creative full-stack software developer with over 9 years of e
 ## Pinned Repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArmandJ77&repo=cqrs-and-mediator-scaffolding&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArmandJ77&repo=ecommerce-store-demo&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
