@@ -55,6 +55,3 @@ I am a dynamic and creative full-stack software developer with over 9 years of e
 ![Armand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmandJ77&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandJ77&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-## Pinned Repos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ArmandJ77&repo=cqrs-and-mediator-scaffolding&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
