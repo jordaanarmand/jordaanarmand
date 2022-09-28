@@ -52,6 +52,6 @@ I am a dynamic and creative full-stack software developer with over 9 years of e
 - Improving my knowledge on Terraform, microservices and all things Azure.
 
 ## Stats
-![Armand's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordaanarmand&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordaanarmand&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Armand's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordaanarmand&show_icons=true&theme=cobalt2)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordaanarmand&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
 
