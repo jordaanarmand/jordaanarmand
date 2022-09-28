@@ -1,4 +1,4 @@
-![Banner](https://github.com/ArmandJ77/ArmandJ77/blob/main/images/banner.png?raw=true)
+![Banner](https://github.com/jordaanarmand/jordaanarmand/blob/main/images/banner.png?raw=true)
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/armandjordaan/">
@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=ArmandJ77&style=for-the-badge"/>
+    <img src="https://komarev.com/ghpvc/?username=jordaanarmand&style=for-the-badge"/>
 </div>
 
 ## Hi, i'm Armand Jordaan
@@ -52,6 +52,6 @@ I am a dynamic and creative full-stack software developer with over 9 years of e
 - Improving my knowledge on Terraform, microservices and all things Azure.
 
 ## Stats
-![Armand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArmandJ77&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandJ77&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Armand's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordaanarmand&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordaanarmand&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
