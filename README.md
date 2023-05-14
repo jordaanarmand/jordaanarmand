@@ -20,8 +20,12 @@
 
 *Thank you for taking the time to view my profile, your feedback is most welcome* :smile:
 
-I am a dynamic and creative full-stack software developer with over 9 years of experience in producing robust code for high-volume companies in the FinTech, PropTech, MarkTech, and Gaming space. Eager to be a part of and support fast-paced teams with a high feature output and quality support. In previous roles, I have enhanced/refactored/ supported CRMs and microservice architectures, overseen integration projects for AIG Insurance, Virgin Money, and handled customer-sensitive data for South African banks. :rocket: :bank:
+I am a dynamic and creative full-stack software developer with over 10 years of experience in producing robust code for high-volume companies in the FinTech, PropTech, MarkTech, and Gaming space. Eager to be a part of and support fast-paced teams with a high feature output and quality support. In previous roles, I have enhanced/refactored/supported CRMs and microservice architectures, overseen integration projects for AIG Insurance, Virgin Money, handled customer-sensitive data for major South African banks, designed early prototypes for fraud detection and prevention in the Australian FinTech space. :rocket: :bank: 
 
+Currently I am:
+- Technical lead developer for a scaleup in the education sector
+- Building a microservice based survey platofm with focus on high availability and scalability on Dotnet ecosystem & Azure
+- Improving my knowledge on Terraform, microservices and all things Azure.
 
 ## Technology Stack
 
@@ -45,11 +49,6 @@ I am a dynamic and creative full-stack software developer with over 9 years of e
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
 </div>
-
-## Currently working on
-- [Acceleon.com.au](https://www.acceleon.com.au): A cloud hosted fraud detection and prevention platform for the Australian FinTech market
-- Rebuilding my Github profile with a focus on projects instead of single small repos
-- Improving my knowledge on Terraform, microservices and all things Azure.
 
 ## Stats
 ![Armand's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordaanarmand&show_icons=true&theme=cobalt2)
