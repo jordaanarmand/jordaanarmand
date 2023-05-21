@@ -22,7 +22,7 @@
 
 I am a dynamic and creative full-stack software developer with over 10 years of experience in producing robust code for high-volume companies in the FinTech, PropTech, MarkTech, and Gaming space. Eager to be a part of and support fast-paced teams with a high feature output and quality support. In previous roles, I have enhanced/refactored/supported CRMs and microservice architectures, overseen integration projects for AIG Insurance, Virgin Money, handled customer-sensitive data for major South African banks, designed early prototypes for fraud detection and prevention in the Australian FinTech space. :rocket: :bank: 
 
-Currently I am:
+**My current focus**
 - Technical lead developer for a scaleup in the dutch education sector, using Dotnet, Blazor and Azure.
 - Architecting a microservice based survey platform with focus on high availability and scalability.
 - Building a strong technical team and development practises and processes.
