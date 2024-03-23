@@ -1,4 +1,4 @@
-![Banner](https://github.com/jordaanarmand/jordaanarmand/blob/main/images/banner.png?raw=true)
+![Banner](https://github.com/jordaanarmand/jordaanarmand/blob/main/images/banner-2.png?raw=true)
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/armandjordaan/">
