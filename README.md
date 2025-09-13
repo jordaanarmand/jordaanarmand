@@ -20,12 +20,12 @@
 
 *Thank you for taking the time to view my profile, your feedback is most welcome* :smile:
 
-I am a dynamic and creative full-stack software developer with over 10 years of experience in producing robust code for high-volume companies in the FinTech, PropTech, MarkTech, and Gaming space. Eager to be a part of and support fast-paced teams with a high feature output and quality support. In previous roles, I have enhanced/refactored/supported CRMs and microservice architectures, overseen integration projects for AIG Insurance, Virgin Money, handled customer-sensitive data for major South African banks, designed early prototypes for fraud detection and prevention in the Australian FinTech space. :rocket: :bank: 
+I am a dynamic and creative full-stack software developer with over 10 years of experience in producing robust code for high-volume companies in the FinTech, PropTech, MarkTech, and Gaming space. Eager to be a part of and support fast-paced teams with a high feature output and quality support. In previous roles, I have enhanced/refactored CRMs and microservice architectures, overseen integration projects for AIG Insurance and Virgin Money, handled customer-sensitive data for major South African banks, and designed early prototypes for fraud detection and prevention in the Australian FinTech sector. :rocket: :bank: 
 
 **My current focus**
-- Technical lead developer for a scaleup in the dutch education sector, using Dotnet, Blazor and Azure.
-- Architecting a microservice based survey platform with focus on high availability and scalability.
-- Building a strong technical team and development practises and processes.
+- Technical lead developer for a scale-up in the Dutch education sector, using .NET, Blazor, and Azure.
+- Architecting a microservice-based survey platform with a focus on high availability and scalability.
+- Building a strong technical team and development practices and processes.
 
 ## Technology Stack
 
@@ -53,3 +53,4 @@ I am a dynamic and creative full-stack software developer with over 10 years of 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordaanarmand&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
 ![Armand's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordaanarmand&show_icons=true&theme=cobalt2)
+
