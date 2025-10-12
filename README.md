@@ -19,6 +19,12 @@ Over 11 years as a full-stack software developer, I've steadfastly contributed t
 
 _Thank you for taking the time to view my profile, your feedback is most welcome_ :smile:
 
+**Current Focus**
+- Leading innovation for the largest automotive data brokerage in the Netherlands.
+- Exploring options with starting my own software development consulting firm.
+- Founded my long awaited YouTube channel [CodeAnvil](https://www.youtube.com/@CodeAnvil)
+
+
 ## Technology Stack
 
 <div align="left">
@@ -46,4 +52,5 @@ _Thank you for taking the time to view my profile, your feedback is most welcome
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordaanarmand&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
 ![Armand's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordaanarmand&show_icons=true&theme=cobalt2)
+
 
