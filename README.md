@@ -7,10 +7,7 @@
   <a href="https://www.youtube.com/@CodeAnvil">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-</div>
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=jordaanarmand&style=for-the-badge"/>
+   <img src="https://komarev.com/ghpvc/?username=jordaanarmand&style=for-the-badge"/>
 </div>
 
 ## Hi, i'm Armand 🙂
@@ -49,6 +46,7 @@ _Thank you for taking the time to view my profile, your feedback is most welcome
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordaanarmand&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
 ![Armand's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordaanarmand&show_icons=true&theme=cobalt2)
+
 
 
 
