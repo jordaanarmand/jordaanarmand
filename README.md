@@ -13,9 +13,9 @@
     <img src="https://komarev.com/ghpvc/?username=jordaanarmand&style=for-the-badge"/>
 </div>
 
-## Hi, i'm Armand Jordaan
+## Hi, i'm Armand 🙂
 
-Over 11 years as a full-stack software developer, I've steadfastly contributed to dynamic teams spanning diverse regions. My unwavering commitment centers on maximizing feature output and upholding top-tier support standards. Specializing in refining CRMs and microservice architectures, I've led integration initiatives within the Financial sector, collaborating with prominent insurance firms and banks across South Africa and Australia. My responsibilities have encompassed managing sensitive customer data, pioneering cutting-edge fraud detection and prevention solutions, and architecting and building a survey platform for the Dutch education sector, further diversifying my portfolio of impactful endeavors.
+Over 12 years of experience as a full-stack software developer, I've steadfastly contributed to dynamic teams spanning diverse regions. My unwavering commitment centers on maximizing feature output and upholding top-tier support standards. Specializing in refining CRMs and microservice architectures, I've led integration initiatives within the Financial sector, collaborating with prominent insurance firms and banks across South Africa and Australia. My responsibilities have encompassed managing sensitive customer data, pioneering cutting-edge fraud detection and prevention solutions, and architecting and building a survey platform for the Dutch education sector, further diversifying my portfolio of impactful endeavors.
 
 _Thank you for taking the time to view my profile, your feedback is most welcome_ :smile:
 
@@ -23,7 +23,6 @@ _Thank you for taking the time to view my profile, your feedback is most welcome
 - Leading innovation for the largest automotive data brokerage in the Netherlands.
 - Exploring options with starting my own software development consulting firm.
 - Founded my long awaited YouTube channel [CodeAnvil](https://www.youtube.com/@CodeAnvil)
-
 
 ## Technology Stack
 
@@ -52,5 +51,6 @@ _Thank you for taking the time to view my profile, your feedback is most welcome
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordaanarmand&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
 ![Armand's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordaanarmand&show_icons=true&theme=cobalt2)
+
 
 
