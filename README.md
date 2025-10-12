@@ -32,12 +32,10 @@ _Thank you for taking the time to view my profile, your feedback is most welcome
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" alt="materialui" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet-core" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
@@ -51,6 +49,7 @@ _Thank you for taking the time to view my profile, your feedback is most welcome
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordaanarmand&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
 ![Armand's GitHub stats](https://github-readme-stats.vercel.app/api?username=jordaanarmand&show_icons=true&theme=cobalt2)
+
 
 
 
