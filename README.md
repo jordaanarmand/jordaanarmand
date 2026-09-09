@@ -1,43 +1,67 @@
-![Banner](https://github.com/jordaanarmand/jordaanarmand/blob/main/images/banner-2.png?raw=true)
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/armandjordaan/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<p align="center">
+  <a href="https://armandjordaan.com/">
+    <img src="./images/profile-banner.png" width="100%" alt="Armand Jordaan — Software architect in the Netherlands. Reliable systems. Stronger teams." />
   </a>
-  <a href="https://www.youtube.com/@CodeAnvil">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+</p>
+
+<p align="center">
+  <a href="https://armandjordaan.com/"><strong>Portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://armandjordaan.com/#experience"><strong>Case studies</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://armandjordaan.com/blog"><strong>Technical blog</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/armandjordaan/"><strong>LinkedIn</strong></a>
+</p>
+
+## Building reliable systems and stronger engineering teams.
+
+I’m a software architect based in the Netherlands. I add architectural direction and hands-on engineering capacity where teams need it most—aligning stakeholders, establishing pragmatic patterns and building technical ownership that lasts.
+
+My background spans full-stack development, distributed systems, cloud platforms and data architecture across finance, insurance, banking, education and other high-volume environments. I stay close enough to implementation to make the direction real.
+
+## Selected work
+
+**[Building a data platform from zero](https://armandjordaan.com/work/data-platform/)**  
+Designed a containerised warehouse and delivery platform that moved analytical processing out of the operational C# estate. The platform now processes more than 500 GB each day.
+
+**[From legacy survey app to scalable digital platform](https://armandjordaan.com/work/legacy-survey-app-to-digital-platform/)**  
+Re-architected a deteriorating .NET survey product into a cloud platform. Customer onboarding and content distribution moved from months to minutes.
+
+**[From release gridlock to daily delivery](https://armandjordaan.com/work/release-transformation/)**  
+Reworked architecture, deployment ownership and engineering practices around independently deployable services, moving production releases from multi-month cycles to daily delivery.
+
+**[Turning disagreement into shared direction](https://armandjordaan.com/work/team-alignment/)**  
+Aligned business and engineering around an incremental roadmap, then transferred the patterns and knowledge required for independent delivery.
+
+## Latest technical note
+
+<p align="center">
+  <a href="https://armandjordaan.com/blog/a-high-level-tour-of-my-data-stack/">
+    <img src="./images/data-stack-flow-card.gif" width="100%" alt="Animated self-hosted data stack with data flowing through ingestion, orchestration, transformation and analytics." />
   </a>
-   <img src="https://komarev.com/ghpvc/?username=jordaanarmand&style=for-the-badge"/>
-</div>
+</p>
 
-## Hi, i'm Armand 🙂
+**[A quick overview of a cost-conscious self-hosted data stack](https://armandjordaan.com/blog/a-high-level-tour-of-my-data-stack/)**  
+How Airbyte, Dagster, dbt and ClickHouse fit together in a containerised analytical platform—and why each tool has a distinct job.
 
-Over 12 years of experience as a full-stack software developer, I've steadfastly contributed to dynamic teams spanning diverse regions. My unwavering commitment centers on maximizing feature output and upholding top-tier support standards. Specializing in refining CRMs and microservice architectures, I've led integration initiatives within the Financial sector, collaborating with prominent insurance firms and banks across South Africa and Australia. My responsibilities have encompassed managing sensitive customer data, pioneering cutting-edge fraud detection and prevention solutions, and architecting and building a survey platform for the Dutch education sector, further diversifying my portfolio of impactful endeavors.
+## Technologies I work with
 
-**Current Focus**
+- **Backend:** .NET, C#, Python and TypeScript
+- **Frontend:** Blazor, Angular, Vue and Tailwind CSS
+- **Data and analytics:** SQL Server, PostgreSQL, dbt, ClickHouse, Airbyte, Dagster and Lightdash
+- **Cloud and platform:** Azure, DigitalOcean, Kubernetes, Docker and Terraform
+- **Delivery and quality:** GitHub Actions, Argo CD, automated testing and observability
 
-- Leading innovation for the largest automotive data brokerage in the Netherlands.
-- Exploring options with starting my own software development consulting firm.
-- Founded my long awaited YouTube channel [CodeAnvil](https://www.youtube.com/@CodeAnvil)
+## How I work
 
-_Thank you for taking the time to view my profile, your feedback is most welcome_ :smile:
+- Evidence over ego
+- Quality through practice
+- Direct, honest feedback
+- Architecture that teams can understand, operate and own
 
-## Technology Stack
+## Let’s continue the conversation
 
-<div align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="css3" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet-core" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg" alt="docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
-</div>
+The best places to learn more about my work or get in touch are my **[portfolio](https://armandjordaan.com/)**, **[technical blog](https://armandjordaan.com/blog)** and **[LinkedIn](https://www.linkedin.com/in/armandjordaan/)**.
 
+South African · Based in the Netherlands · CET / CEST
